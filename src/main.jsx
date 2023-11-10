@@ -7,11 +7,25 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import Root from './Components/Root/Root.jsx';
+import Donation from './Components/Donation/Donation.jsx';
+import Satistics from './Components/Satistics/Satistics.jsx';
+import ErrorPage from './Components/ErrorPage/ErrorPage.jsx';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root></Root>,
+    errorElement: <ErrorPage></ErrorPage>,
+    children: [
+      { 
+        path: '/donation',
+        element: <Donation></Donation>
+      },
+      {
+        path: '/satistics',
+        element: <Satistics></Satistics>
+      }
+    ]
   },
 ]);
 
