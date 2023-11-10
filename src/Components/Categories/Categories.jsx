@@ -3,6 +3,7 @@ import Category from '../Category/Category';
 
 const Categories = () => {
     const [categories, setCategories] = useState([]);
+    
 
     useEffect(()=>{
         fetch('data.json')
@@ -11,9 +12,9 @@ const Categories = () => {
     },[])
     return (
         <div>
-            <div>
+            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3'>
                 {
-                    categories.map((category,idx) => <Category key={idx} category={category}></Category>)
+                    categories.map((category,idx) => <Category key={idx}  category={category}></Category>)
                 }
             </div>
         </div>

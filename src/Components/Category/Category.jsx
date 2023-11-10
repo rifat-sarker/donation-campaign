@@ -5,8 +5,9 @@ const Category = ({ category }) => {
     <div>
       <div>
         <img src={picture} alt="" />
-        <h2>{category_name}</h2>
+        <h2 className="pl-3 py-1">{category_name}</h2>
         <h3>{title}</h3>
+        
       </div>
     </div>
   );
