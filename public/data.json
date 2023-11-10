@@ -1,0 +1,133 @@
+[{
+        "picture": "https://i.ibb.co/bzwzrm3/Health.png",
+        "title": "Clean water for children",
+        "category_name": "Health",
+        "category_bg": "#FF5733",
+        "card_bg": "#F2F2F2",
+        "text_color": "#333",
+        "button_bg": "#0074D9",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": "$199.99"
+    },
+    {
+        "picture": "https://i.ibb.co/1RNtGf3/Education.png",
+        "title": "Good education",
+        "category_name": "Education",
+        "category_bg": "#FFC300",
+        "card_bg": "#F2F2F2",
+        "text_color": "#333",
+        "button_bg": "#E62B30",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "$49.99"
+    },
+    {
+        "picture": "https://i.ibb.co/2n55ks0/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category_name": "Clothing",
+        "category_bg": "#31A96B",
+        "card_bg": "#F2F2F2",
+        "text_color": "#333",
+        "button_bg": "#2ECC71",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "price": "$89.99"
+    },
+    {
+        "picture": "https://i.ibb.co/jJTfXQy/Food.png",
+        "title": "Better Food for Everyone",
+        "category_name": "Food",
+        "category_bg": "#FF5733",
+        "card_bg": "#F2F2F2",
+        "text_color": "#333",
+        "button_bg": "#0074D9",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+        "price": "$119.99"
+    },
+    {
+        "picture": "https://i.ibb.co/jJTfXQy/Food.png",
+        "title": "Better Food for Everyone",
+        "category_name": "Food",
+        "category_bg": "#FF5733",
+        "card_bg": "#F2F2F2",
+        "text_color": "#333",
+        "button_bg": "#0074D9",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+        "price": "$119.99"
+    },
+    {
+        "picture": "https://i.ibb.co/2n55ks0/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category_name": "Clothing",
+        "category_bg": "#31A96B",
+        "card_bg": "#F2F2F2",
+        "text_color": "#333",
+        "button_bg": "#2ECC71",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "price": "$89.99"
+    },
+    {
+        "picture": "https://i.ibb.co/1RNtGf3/Education.png",
+        "title": "Good education",
+        "category_name": "Education",
+        "category_bg": "#FFC300",
+        "card_bg": "#F2F2F2",
+        "text_color": "#333",
+        "button_bg": "#E62B30",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "$49.99"
+    },
+    {
+        "picture": "https://i.ibb.co/bzwzrm3/Health.png",
+        "title": "Clean water for children",
+        "category_name": "Health",
+        "category_bg": "#FF5733",
+        "card_bg": "#F2F2F2",
+        "text_color": "#333",
+        "button_bg": "#0074D9",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": "$199.99"
+    },
+    {
+        "picture": "https://i.ibb.co/bzwzrm3/Health.png",
+        "title": "Clean water for children",
+        "category_name": "Health",
+        "category_bg": "#FF5733",
+        "card_bg": "#F2F2F2",
+        "text_color": "#333",
+        "button_bg": "#0074D9",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": "$199.99"
+    },
+    {
+        "picture": "https://i.ibb.co/1RNtGf3/Education.png",
+        "title": "Good education",
+        "category_name": "Education",
+        "category_bg": "#FFC300",
+        "card_bg": "#F2F2F2",
+        "text_color": "#333",
+        "button_bg": "#E62B30",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "$49.99"
+    },
+    {
+        "picture": "https://i.ibb.co/2n55ks0/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category_name": "Clothing",
+        "category_bg": "#31A96B",
+        "card_bg": "#F2F2F2",
+        "text_color": "#333",
+        "button_bg": "#2ECC71",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "price": "$89.99"
+    },
+    {
+        "picture": "https://i.ibb.co/jJTfXQy/Food.png",
+        "title": "Better Food for Everyone",
+        "category_name": "Food",
+        "category_bg": "#FF5733",
+        "card_bg": "#F2F2F2",
+        "text_color": "#333",
+        "button_bg": "#0074D9",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+        "price": "$119.99"
+    }
+]

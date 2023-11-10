@@ -1,7 +1,8 @@
+import './Banner.css'
 const Banner = () => {
   return (
-    <div>
-      <div className=" mt-24 text-center">
+    <div className='banner py-32 my-20'>
+      <div className=" mt-24 text-center overlay-content">
         <h1 className="text-4xl font-semibold">
           I Grow By Helping People In Need
         </h1><br />
