@@ -34,7 +34,7 @@ const Donation = () => {
       <div className={dataLength === completedDonations.length ? "hidden" : ""}>
         <button
           onClick={() => setDataLength(completedDonations.length)}
-          className="btn btn-primary flex"
+          className="btn btn-primary"
         >
           See All
         </button>
