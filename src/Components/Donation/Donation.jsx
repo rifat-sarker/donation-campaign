@@ -23,7 +23,7 @@ const Donation = () => {
   }, []);
   return (
     <div className="mt-28">
-      <div className="grid grid-cols-2 gap-6 ">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 ">
         {completedDonations.slice(0, dataLength).map((completeDonation) => (
           <CompleteDonation
             key={completeDonation.id}

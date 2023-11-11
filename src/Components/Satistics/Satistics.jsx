@@ -1,9 +1,9 @@
-;
+import React from 'react';
 
 const Satistics = () => {
     return (
         <div>
-            <h1>satistics</h1>
+            
         </div>
     );
 };
