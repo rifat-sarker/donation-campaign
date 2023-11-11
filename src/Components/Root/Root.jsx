@@ -8,7 +8,6 @@ const Root = () => {
     <div className="font-style">
       <div className="max-w-6xl mx-auto">
         <Header></Header>
-        <Banner></Banner>
         <Outlet></Outlet>
       </div>
     </div>

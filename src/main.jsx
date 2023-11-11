@@ -11,6 +11,7 @@ import Donation from './Components/Donation/Donation.jsx';
 import Satistics from './Components/Satistics/Satistics.jsx';
 import ErrorPage from './Components/ErrorPage/ErrorPage.jsx';
 import Home from './Components/Home/Home.jsx';
+import DonationDetails from './Components/DonationDetails/DonationDetails.jsx';
 
 const router = createBrowserRouter([
   {
@@ -29,6 +30,11 @@ const router = createBrowserRouter([
       {
         path: '/satistics',
         element: <Satistics></Satistics>
+      },
+      {
+        path: '/category/:id',
+        element: <DonationDetails></DonationDetails>,
+        loader: ()=> fetch('../data.json')
       }
     ]
   },
