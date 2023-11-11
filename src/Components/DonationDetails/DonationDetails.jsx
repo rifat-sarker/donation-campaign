@@ -3,6 +3,7 @@ import { Link, useLoaderData, useParams } from "react-router-dom";
 import "./DonationDetails.css";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import { saveDonation } from "../../utility/localStorage";
 
 
 const DonationDetails = () => {
@@ -13,6 +14,7 @@ const DonationDetails = () => {
   //    const{picture, title, description,price} =category;
 
   const handleDonate = () => {
+    saveDonation(idInt);
     toast('Donate Successfully');
   }
 
