@@ -1,4 +1,5 @@
 import './Banner.css'
+
 const Banner = () => {
   return (
     <div className='banner py-32 my-20'>
